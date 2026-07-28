@@ -6,9 +6,12 @@ Built for the MERN Stack Internship technical assessment.
 
 ## Live Links
 
-- **Frontend:** _add your deployed Vercel URL here_
-- **Backend:** _add your deployed Render URL here_
-- **Repo:** _add your GitHub repo URL here_
+- **Frontend:** [https://dual-auth-rust.vercel.app/](https://dual-auth-rust.vercel.app/login)
+- **Backend:** [https://dualauth-hs45.onrender.com/](https://dualauth-hs45.onrender.com/)
+
+<img width="652" height="707" alt="image" src="https://github.com/user-attachments/assets/9a7c5649-9198-402e-970e-f852a7b539ec" />
+<img width="638" height="710" alt="image" src="https://github.com/user-attachments/assets/ca0d88e1-c77f-4b01-9ddc-eec7e233e6d3" />
+
 
 ## Features
 
